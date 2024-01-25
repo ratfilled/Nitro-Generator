@@ -36,11 +36,7 @@
 
 # About the program
 
-Program created by: [lnxcz](https://github.com/lnxcz)
-
-Improved by: [DR34M-M4K3R](https://github.com/DR34M-M4K3R)
-
-Improved again by: [ledges](https://github.com/ledges)
+Program created by: [ratfilled](https://github.com/ratfilled)
 
 <br/>
 <br/>
@@ -82,9 +78,9 @@ $ python3 main.py
 
 ## How to use nitro-generator?
 
-#### 1- [Download](https://github.com/lnxcz/nitro-generator#download)
+#### 1- [Download](https://github.com/ratfilled/nitro-generator#download)
 
-#### 2- [Run the program](https://github.com/lnxcz/nitro-generator#run-and-use-the-software)
+#### 2- [Run the program](https://github.com/ratfilled/nitro-generator#run-and-use-the-software)
 
 #### 3- Answer questions displayed on the terminal.
 
@@ -101,7 +97,7 @@ $ python3 main.py
 ModuleNotFoundError: No module named ...
 ```
 
-Install dependencies (see [here](https://github.com/lnxcz/nitro-generator#downloads))
+Install dependencies (see [here](https://github.com/ratfilled/nitro-generator#downloads))
 <br/>
 
 ### Problem 2 - A very long error displayed
